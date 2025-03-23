@@ -1,6 +1,15 @@
 .recommended {
    &__products {
     @include pageGrid;
+    grid-row-gap: 40px;
+
+    @include onTablet {
+      grid-row-gap: 56px;
+    }
+
+    @include onDesctop {
+      grid-row-gap: 0;
+    }
   }
 
   &__product {
