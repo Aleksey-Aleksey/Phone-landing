@@ -1,0 +1,34 @@
+.nav {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 2px;
+
+  &__list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  &__link {
+    cursor: pointer;
+    position: relative;
+    color: $textMainColor;
+  }
+
+  &__link::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background-color: $textMainColor;
+    transition: width 0.3s linear;
+  }
+
+  &__link:hover::after {
+    width: 100%;
+  }
+}

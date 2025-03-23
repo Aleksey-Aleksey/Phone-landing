@@ -1,0 +1,60 @@
+.about-us {
+  &__bImage-darkPhoto {
+    background-image: url(../images/pictures/about-us-photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 100%;
+    margin-bottom: 48px;
+
+    @include onTablet {
+      height: 400px;
+      margin-bottom: 56px;
+    }
+
+    @include onDesctop {
+      height: 460px;
+    }
+  }
+
+  &__wrapper {
+    @include pageGrid;
+  }
+
+  &__title {
+    grid-column: 1 / -1;
+
+    @include onTablet {
+      grid-column: 1 / 4;
+    }
+
+    @include onDesctop {
+      grid-column: span 6;
+    }
+  }
+
+  &__content {
+    grid-column: 1 / -1;
+
+    @include onTablet {
+      grid-column: 4 / -1;
+    }
+
+    @include onDesctop {
+      grid-column: span 6;
+    }
+  }
+
+  &__description {
+    font-family: Space Mono;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0px;
+  }
+}
+
+.form__item {
+  display: block;
+}

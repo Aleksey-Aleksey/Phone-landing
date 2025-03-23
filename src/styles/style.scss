@@ -1,0 +1,20 @@
+@import 'utils/normalize';
+@import './utils/variables.scss';
+@import './utils/mixins';
+
+@import 'blocks/page';
+@import 'utils/container.scss';
+@import 'blocks/header';
+@import 'blocks/icons';
+@import 'blocks/top-bar';
+@import 'blocks/menu';
+@import 'blocks/nav';
+@import 'blocks/main';
+@import 'blocks/section.scss';
+@import 'blocks/recommended.scss';
+@import 'blocks/recommend-product.scss';
+@import 'blocks/categories.scss';
+@import 'blocks/category.scss';
+@import 'blocks/about-us.scss';
+@import 'blocks/contacts.scss';
+@import 'blocks/button.scss';
