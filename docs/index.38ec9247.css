@@ -356,6 +356,11 @@
   .recommended__product {
     grid-column: span 4;
   }
+
+  .recommend-product {
+    flex-direction: column;
+    display: flex;
+  }
 }
 
 .recommend-product__photo {
@@ -392,6 +397,12 @@
   font-size: 16px;
   font-weight: 700;
   line-height: 22.4px;
+}
+
+@media (width >= 1024px) {
+  .recommend-product__price {
+    margin-top: auto;
+  }
 }
 
 .categories__wrapper {

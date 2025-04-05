@@ -1,4 +1,4 @@
-5432
+5461
 56D:\Projects\Phone-landing\node_modules\nth-check\LICENSE133872299087145206 0
 84D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\css-caret-color.js133872282383172102 0
 87D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\permissions-policy.js133872282384074371 0
@@ -48,7 +48,7 @@
 45D:\Projects\Phone-landing\node_modules\base-x133872282382885209 1
 59D:\Projects\Phone-landing\node_modules\semver\bin\semver.js133872282389462663 0
 53D:\Projects\Phone-landing\node_modules\domelementtype133872282385536834 1
-30D:\Projects\Phone-landing\dist133872415461330331 1
+30D:\Projects\Phone-landing\dist133883405626705161 1
 62D:\Projects\Phone-landing\node_modules\@parcel\packager-js\src133872282368550976 1
 44D:\Projects\Phone-landing\node_modules\json5133872282387019155 1
 115D:\Projects\Phone-landing\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133872282388067767 0
@@ -77,7 +77,7 @@
 54D:\Projects\Phone-landing\node_modules\sass\types\util133872282389442603 1
 66D:\Projects\Phone-landing\node_modules\domutils\lib\esm\feeds.d.ts133872282385748829 0
 83D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\css-namespaces.js133872282383329863 0
-54D:\Projects\Phone-landing\dist\Icon-Close.01c1856a.svg133872340717260701 0
+54D:\Projects\Phone-landing\dist\Icon-Close.01c1856a.svg133883371835515002 0
 58D:\Projects\Phone-landing\node_modules\csso\cjs\syntax.cjs133872299087755632 0
 88D:\Projects\Phone-landing\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133872282387753713 0
 53D:\Projects\Phone-landing\src\styles\blocks\page.scss133872282390212385 0
@@ -85,7 +85,7 @@
 94D:\Projects\Phone-landing\node_modules\posthtml\node_modules\htmlparser2\lib\WritableStream.js133872282389012418 0
 82D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\text-emphasis.js133872282384268679 0
 58D:\Projects\Phone-landing\dist\products-phone.c1323472.png133872413986459970 0
-30D:\Projects\Phone-landing\docs133872320876910956 1
+30D:\Projects\Phone-landing\docs133872415756048871 1
 29D:\Projects\Phone-landing\src133872282390172220 1
 85D:\Projects\Phone-landing\node_modules\entities\lib\esm\generated\decode-data-html.js133872282386028605 0
 65D:\Projects\Phone-landing\node_modules\picomatch\lib\picomatch.js133872282388538845 0
@@ -103,7 +103,7 @@
 69D:\Projects\Phone-landing\node_modules\svgo\plugins\removeUnusedNS.js133872299088327000 0
 82D:\Projects\Phone-landing\node_modules\@parcel\core\test\fixtures\invalid-distpath133872282367957343 1
 64D:\Projects\Phone-landing\node_modules\csso\lib\replace\Value.js133872299088443149 0
-40D:\Projects\Phone-landing\src\index.html133872341985675477 0
+40D:\Projects\Phone-landing\src\index.html133883347746703706 0
 74D:\Projects\Phone-landing\node_modules\svgo\plugins\removeScriptElement.js133872299088290000 0
 98D:\Projects\Phone-landing\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json133872282381528925 0
 54D:\Projects\Phone-landing\node_modules\.bin\semver.ps1133872282367042527 0
@@ -127,7 +127,7 @@
 43D:\Projects\Phone-landing\node_modules\.bin133872299090083731 1
 79D:\Projects\Phone-landing\node_modules\css-select\lib\pseudo-selectors\index.js133872299087430324 0
 64D:\Projects\Phone-landing\node_modules\csso\lib\replace\color.js133872299087995556 0
-60D:\Projects\Phone-landing\docs\Icon-Burger-menu.1293e60e.svg133872320334564159 0
+60D:\Projects\Phone-landing\docs\Icon-Burger-menu.1293e60e.svg133872415744760675 0
 47D:\Projects\Phone-landing\src\styles\style.scss133872282390232453 0
 68D:\Projects\Phone-landing\node_modules\mdn-data\css\definitions.json133872299087343255 0
 58D:\Projects\Phone-landing\node_modules\regenerator-runtime133872282389151650 1
@@ -192,6 +192,7 @@
 58D:\Projects\Phone-landing\node_modules\has-flag\index.d.ts133872282386228776 0
 87D:\Projects\Phone-landing\node_modules\css-tree\cjs\tokenizer\char-code-definitions.cjs133872299087373092 0
 45D:\Projects\Phone-landing\node_modules\@lezer133872282367122817 1
+63D:\Projects\Phone-landing\docs\produsts-headpjones.690cb2a9.png133872415756048871 0
 61D:\Projects\Phone-landing\node_modules\immutable\package.json133872282386771164 0
 85D:\Projects\Phone-landing\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133872299088622079 0
 55D:\Projects\Phone-landing\src\images\pictures\phone.png133872282390152176 0
@@ -239,7 +240,7 @@
 89D:\Projects\Phone-landing\node_modules\htmlnano\lib\modules\minifyConditionalComments.mjs133872282386501370 0
 87D:\Projects\Phone-landing\node_modules\@swc\helpers\cjs\_class_apply_descriptor_set.cjs133872282381875315 0
 52D:\Projects\Phone-landing\src\styles\blocks\nav.scss133872282390212385 0
-66D:\Projects\Phone-landing\src\styles\blocks\recommend-product.scss133872282390212385 0
+66D:\Projects\Phone-landing\src\styles\blocks\recommend-product.scss133883405130735444 0
 86D:\Projects\Phone-landing\node_modules\@swc\helpers\esm\_object_destructuring_empty.js133872282382415953 0
 63D:\Projects\Phone-landing\node_modules\js-yaml\lib\type\null.js133872282386979056 0
 51D:\Projects\Phone-landing\node_modules\mdn-data\api133872299087379610 1
@@ -469,6 +470,7 @@
 64D:\Projects\Phone-landing\node_modules\dotenv-expand\config.d.ts133872282385899874 0
 55D:\Projects\Phone-landing\node_modules\parcel\README.md133872282388422212 0
 62D:\Projects\Phone-landing\node_modules\json5\dist\index.min.js133872282387019155 0
+54D:\Projects\Phone-landing\docs\Icon-Close.01c1856a.svg133872415745392688 0
 47D:\Projects\Phone-landing\node_modules\error-ex133872282386228776 1
 84D:\Projects\Phone-landing\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133872282387951400 0
 79D:\Projects\Phone-landing\node_modules\csso\node_modules\css-tree\dist\data.cjs133872299087705371 0
@@ -485,7 +487,7 @@
 88D:\Projects\Phone-landing\node_modules\posthtml\node_modules\dom-serializer\package.json133872282388714130 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\PS.js133872282384938225 0
 87D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\orientation-sensor.js133872282384019531 0
-63D:\Projects\Phone-landing\docs\produsts-headpjones.72379022.png133872320326113121 0
+63D:\Projects\Phone-landing\docs\produsts-headpjones.72379022.png133872415756480695 0
 47D:\Projects\Phone-landing\node_modules\get-port133872282386228776 1
 69D:\Projects\Phone-landing\node_modules\css-what\lib\commonjs\index.js133872299087176695 0
 63D:\Projects\Phone-landing\node_modules\cosmiconfig\dist\util.js133872282385536834 0
@@ -498,7 +500,7 @@
 50D:\Projects\Phone-landing\node_modules\htmlparser2133872282386710993 1
 63D:\Projects\Phone-landing\node_modules\lmdb\src\compression.cpp133872282387951400 0
 46D:\Projects\Phone-landing\node_modules\globals133872282386228776 1
-56D:\Projects\Phone-landing\dist\headphones-2.be6a6d84.png133872340717364865 0
+56D:\Projects\Phone-landing\dist\headphones-2.be6a6d84.png133883371833675185 0
 77D:\Projects\Phone-landing\node_modules\@parcel\transformer-babel\package.json133872282378266274 0
 47D:\Projects\Phone-landing\node_modules\has-flag133872282386228776 1
 56D:\Projects\Phone-landing\node_modules\parcel\lib\cli.js133872282388422212 0
@@ -1234,7 +1236,7 @@
 61D:\Projects\Phone-landing\node_modules\js-tokens\CHANGELOG.md133872282386881221 0
 59D:\Projects\Phone-landing\node_modules\@swc\helpers\LICENSE133872282381432056 0
 72D:\Projects\Phone-landing\node_modules\svgo\plugins\removeXMLProcInst.js133872299088363773 0
-54D:\Projects\Phone-landing\docs\Icon-Close.c0f6b14c.svg133872320334564159 0
+54D:\Projects\Phone-landing\docs\Icon-Close.c0f6b14c.svg133872415745552095 0
 87D:\Projects\Phone-landing\node_modules\@swc\helpers\src\_ts_add_disposable_resource.mjs133872282382738779 0
 94D:\Projects\Phone-landing\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133872282387596520 0
 65D:\Projects\Phone-landing\node_modules\svgo\plugins\reusePaths.js133872299088380312 0
@@ -1324,6 +1326,7 @@
 55D:\Projects\Phone-landing\node_modules\srcset\readme.md133872282389639149 0
 65D:\Projects\Phone-landing\node_modules\source-map-js\package.json133872282389639149 0
 78D:\Projects\Phone-landing\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133872282382738779 0
+56D:\Projects\Phone-landing\docs\headphones-2.be6a6d84.png133872415743986108 0
 78D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\audio-api.js133872282383035409 0
 69D:\Projects\Phone-landing\node_modules\source-map-js\lib\array-set.js133872282389529480 0
 93D:\Projects\Phone-landing\node_modules\csso\node_modules\css-tree\cjs\lexer\generic-const.cjs133872299087846783 0
@@ -1470,7 +1473,7 @@
 59D:\Projects\Phone-landing\node_modules\color-name\README.md133872282385395009 0
 67D:\Projects\Phone-landing\node_modules\sass\types\value\number.d.ts133872282389462663 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\WF.js133872282385061481 0
-58D:\Projects\Phone-landing\dist\products-phone.cfa2342e.png133872340717344787 0
+58D:\Projects\Phone-landing\dist\products-phone.cfa2342e.png133883371833863629 0
 67D:\Projects\Phone-landing\node_modules\sass\types\value\string.d.ts133872282389462663 0
 59D:\Projects\Phone-landing\node_modules\dotenv\lib\main.d.ts133872282385899874 0
 70D:\Projects\Phone-landing\node_modules\css-tree\lib\generator\index.js133872299089200355 0
@@ -2110,6 +2113,7 @@
 104D:\Projects\Phone-landing\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133872299089423765 0
 61D:\Projects\Phone-landing\node_modules\msgpackr\node-index.js133872282388286367 0
 58D:\Projects\Phone-landing\node_modules\msgpackr\pack.d.cts133872282388286367 0
+60D:\Projects\Phone-landing\docs\Icone-Phone-call.ce586788.svg133872415745867744 0
 87D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\link-rel-prerender.js133872282383897184 0
 71D:\Projects\Phone-landing\node_modules\htmlparser2\lib\Tokenizer.js.map133872282386638832 0
 59D:\Projects\Phone-landing\node_modules\msgpackr\SECURITY.md133872282388067767 0
@@ -2117,7 +2121,7 @@
 83D:\Projects\Phone-landing\node_modules\lmdb\node_modules\node-addon-api\except.gypi133872282387951400 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\MO.js133872282384938225 0
 60D:\Projects\Phone-landing\node_modules\msgpackr\unpack.d.cts133872282388327830 0
-58D:\Projects\Phone-landing\docs\products-birds.f142c3b3.png133872320334564159 0
+58D:\Projects\Phone-landing\docs\products-birds.f142c3b3.png133872415753297250 0
 57D:\Projects\Phone-landing\node_modules\msgpackr\unpack.js133872282388327830 0
 75D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\jpegxr.js133872282383836957 0
 99D:\Projects\Phone-landing\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc133872282367937293 0
@@ -2139,7 +2143,7 @@
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\NR.js133872282384938225 0
 72D:\Projects\Phone-landing\node_modules\mdn-data\css\at-rules.schema.json133872299087270072 0
 62D:\Projects\Phone-landing\node_modules\mdn-data\css\types.json133872299087656650 0
-60D:\Projects\Phone-landing\docs\Icone-Phone-call.5afe586e.svg133872320325931299 0
+60D:\Projects\Phone-landing\docs\Icone-Phone-call.5afe586e.svg133872415745867744 0
 84D:\Projects\Phone-landing\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js133872282378422551 0
 62D:\Projects\Phone-landing\node_modules\mdn-data\css\units.json133872299087683509 0
 65D:\Projects\Phone-landing\node_modules\@parcel\markdown-ansi\test133872282368272956 1
@@ -2234,6 +2238,7 @@
 79D:\Projects\Phone-landing\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133872282387833894 0
 83D:\Projects\Phone-landing\node_modules\@swc\helpers\esm\_class_private_field_get.js133872282382086733 0
 68D:\Projects\Phone-landing\node_modules\lmdb\dependencies\lz4\lib\dll133872282387813831 1
+61D:\Projects\Phone-landing\docs\produscts-charger.757fbb17.png133872415755888100 0
 81D:\Projects\Phone-landing\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133872282387813831 0
 81D:\Projects\Phone-landing\node_modules\@parcel\transformer-react-refresh-wrap\lib133872282378422551 1
 90D:\Projects\Phone-landing\node_modules\csso\node_modules\css-tree\lib\syntax\node\Block.js133872299088748525 0
@@ -2416,6 +2421,7 @@
 59D:\Projects\Phone-landing\node_modules\json5\lib\index.d.ts133872282387019155 0
 72D:\Projects\Phone-landing\node_modules\electron-to-chromium\package.json133872282386007056 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\IS.js133872282384783648 0
+49D:\Projects\Phone-landing\docs\index.35dbef5e.css133872415747304896 0
 57D:\Projects\Phone-landing\node_modules\json5\lib\index.js133872282387019155 0
 60D:\Projects\Phone-landing\node_modules\json5\lib\register.js133872282387019155 0
 62D:\Projects\Phone-landing\node_modules\dotenv-expand\config.js133872282385899874 0
@@ -3184,7 +3190,7 @@
 96D:\Projects\Phone-landing\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Percentage.cjs133872299088363773 0
 105D:\Projects\Phone-landing\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoClassSelector.cjs133872299088380312 0
 91D:\Projects\Phone-landing\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133872299088443149 0
-58D:\Projects\Phone-landing\docs\about-us-photo.2283f1d2.png133872320326113121 0
+58D:\Projects\Phone-landing\docs\about-us-photo.2283f1d2.png133872415741903319 0
 89D:\Projects\Phone-landing\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Raw.cjs133872299088448562 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\LV.js133872282384783648 0
 60D:\Projects\Phone-landing\node_modules\@parcel\fs\index.d.ts133872282368155302 0
@@ -3481,7 +3487,7 @@
 66D:\Projects\Phone-landing\node_modules\css-tree\cjs\utils\List.cjs133872299088216683 0
 71D:\Projects\Phone-landing\node_modules\cosmiconfig\dist\getDirectory.js133872282385500222 0
 65D:\Projects\Phone-landing\node_modules\css-tree\cjs\utils\url.cjs133872299088680123 0
-60D:\Projects\Phone-landing\dist\Phone-landing.59712999.js.map133872340717519632 0
+60D:\Projects\Phone-landing\dist\Phone-landing.59712999.js.map133883371834595589 0
 78D:\Projects\Phone-landing\node_modules\css-tree\cjs\tokenizer\adopt-buffer.cjs133872299087181992 0
 73D:\Projects\Phone-landing\node_modules\@swc\helpers\_\_throw\package.json133872282381777197 0
 90D:\Projects\Phone-landing\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose133872282381636948 1
@@ -3610,7 +3616,7 @@
 64D:\Projects\Phone-landing\node_modules\css-select\lib\types.d.ts133872299088332287 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\HT.js133872282384783648 0
 62D:\Projects\Phone-landing\node_modules\css-select\lib\types.js133872299087596137 0
-64D:\Projects\Phone-landing\dist\products-headphones2.1404d324.png133872340717260701 0
+64D:\Projects\Phone-landing\dist\products-headphones2.1404d324.png133883371833853567 0
 83D:\Projects\Phone-landing\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133872299088125905 0
 49D:\Projects\Phone-landing\node_modules\.bin\json5133872282366994692 0
 81D:\Projects\Phone-landing\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133872282382738779 0
@@ -3651,7 +3657,7 @@
 70D:\Projects\Phone-landing\node_modules\css-select\lib\esm\types.js.map133872299088066132 0
 74D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\forms.js133872282383700521 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\TW.js133872282385061481 0
-66D:\Projects\Phone-landing\dist\Icon-Burger-menu-hover.f3fd9864.svg133872340717260701 0
+66D:\Projects\Phone-landing\dist\Icon-Burger-menu-hover.f3fd9864.svg133883371835515002 0
 87D:\Projects\Phone-landing\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts133872299088120013 0
 91D:\Projects\Phone-landing\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts.map133872299087645319 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\RU.js133872282385061481 0
@@ -3687,7 +3693,7 @@
 71D:\Projects\Phone-landing\node_modules\cosmiconfig\dist\Explorer.js.map133872282385460143 0
 71D:\Projects\Phone-landing\node_modules\cosmiconfig\dist\ExplorerBase.js133872282385460143 0
 73D:\Projects\Phone-landing\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133872282385460143 0
-49D:\Projects\Phone-landing\dist\phone.edb46170.png133872340717539702 0
+49D:\Projects\Phone-landing\dist\phone.edb46170.png133883371833688066 0
 77D:\Projects\Phone-landing\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133872282385460143 0
 75D:\Projects\Phone-landing\node_modules\cosmiconfig\dist\getDirectory.js.map133872282385500222 0
 82D:\Projects\Phone-landing\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts.map133872282385500222 0
@@ -3815,7 +3821,7 @@
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\BI.js133872282384584224 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\BJ.js133872282384584224 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\BN.js133872282384584224 0
-48D:\Projects\Phone-landing\dist\Logo.b4275d0d.svg133872340717260701 0
+48D:\Projects\Phone-landing\dist\Logo.b4275d0d.svg133883371835515002 0
 77D:\Projects\Phone-landing\node_modules\@parcel\codeframe\lib\codeframe.js.map133872282367489365 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\BR.js133872282384584224 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\BS.js133872282384584224 0
@@ -3868,6 +3874,7 @@
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\HU.js133872282384783648 0
 71D:\Projects\Phone-landing\node_modules\@parcel\packager-js\src\utils.js133872282368550976 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\IE.js133872282384783648 0
+53D:\Projects\Phone-landing\docs\header-bi.a831b9a4.png133872415742705864 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\IN.js133872282384783648 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\IT.js133872282384783648 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\JO.js133872282384783648 0
@@ -3902,6 +3909,7 @@
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\MP.js133872282384938225 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\MR.js133872282384938225 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\MS.js133872282384938225 0
+53D:\Projects\Phone-landing\docs\index.38ec9247.css.map133872415748098659 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\MU.js133872282384938225 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\MV.js133872282384938225 0
 70D:\Projects\Phone-landing\node_modules\caniuse-lite\data\regions\MW.js133872282384938225 0
@@ -4021,7 +4029,7 @@
 84D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\css-crisp-edges.js133872282383172102 0
 62D:\Projects\Phone-landing\node_modules\@swc\helpers\_\_extends133872282381636948 1
 60D:\Projects\Phone-landing\node_modules\@swc\helpers\_\_using133872282381817283 1
-60D:\Projects\Phone-landing\dist\Icon-Burger-menu.3f792dc9.svg133872340717260701 0
+60D:\Projects\Phone-landing\dist\Icon-Burger-menu.3f792dc9.svg133883371835515002 0
 101D:\Projects\Phone-landing\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133872282367957343 0
 83D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\css-cross-fade.js133872282383172102 0
 86D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\css-focus-visible.js133872282383172102 0
@@ -4145,7 +4153,7 @@
 84D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\form-validation.js133872282383700521 0
 88D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\hardwareconcurrency.js133872282383700521 0
 83D:\Projects\Phone-landing\node_modules\@swc\helpers\_\_define_property\package.json133872282381636948 0
-48D:\Projects\Phone-landing\docs\Logo.06129810.svg133872320334569456 0
+48D:\Projects\Phone-landing\docs\Logo.06129810.svg133872415749528648 0
 79D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\hashchange.js133872282383700521 0
 75D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\hidden.js133872282383700521 0
 89D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\high-resolution-time.js133872282383700521 0
@@ -4282,6 +4290,7 @@
 82D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\vector-effect.js133872282384344166 0
 85D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\view-transitions.js133872282384364234 0
 91D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\viewport-unit-variants.js133872282384364234 0
+64D:\Projects\Phone-landing\docs\products-headphones2.1404d324.png133872415753590959 0
 77D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\wai-aria.js133872282384364234 0
 80D:\Projects\Phone-landing\node_modules\@parcel\core\lib\requests\EntryRequest.js133872282367647012 0
 78D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\wake-lock.js133872282384364234 0
@@ -4296,6 +4305,7 @@
 72D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\wav.js133872282384417224 0
 82D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\web-animation.js133872282384417224 0
 74D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\webgl.js133872282384427254 0
+48D:\Projects\Phone-landing\docs\index.de158e3a.js133872415748098659 0
 75D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\webgl2.js133872282384427254 0
 75D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\webhid.js133872282384427254 0
 73D:\Projects\Phone-landing\node_modules\caniuse-lite\data\features\webm.js133872282384427254 0
@@ -4544,6 +4554,7 @@
 76D:\Projects\Phone-landing\node_modules\@swc\helpers\esm\_get_prototype_of.js133872282382264816 0
 74D:\Projects\Phone-landing\node_modules\@swc\helpers\esm\_inherits_loose.js133872282382264816 0
 87D:\Projects\Phone-landing\node_modules\@swc\helpers\esm\_is_native_reflect_construct.js133872282382415953 0
+49D:\Projects\Phone-landing\docs\index.38ec9247.css133872415747820588 0
 79D:\Projects\Phone-landing\node_modules\@swc\helpers\esm\_non_iterable_spread.js133872282382415953 0
 73D:\Projects\Phone-landing\node_modules\@swc\helpers\esm\_object_spread.js133872282382415953 0
 79D:\Projects\Phone-landing\node_modules\@swc\helpers\esm\_object_spread_props.js133872282382415953 0
@@ -4889,7 +4900,7 @@
 81D:\Projects\Phone-landing\node_modules\@parcel\transformer-babel\lib\constants.js133872282378196420 0
 76D:\Projects\Phone-landing\node_modules\@parcel\transformer-babel\lib\flow.js133872282378196420 0
 75D:\Projects\Phone-landing\node_modules\@parcel\transformer-babel\lib\jsx.js133872282378196420 0
-56D:\Projects\Phone-landing\dist\headphones-1.25eba748.png133872340717519632 0
+56D:\Projects\Phone-landing\dist\headphones-1.25eba748.png133883371833873637 0
 89D:\Projects\Phone-landing\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133872282378196420 0
 62D:\Projects\Phone-landing\node_modules\@parcel\source-map\dist133872282377798597 1
 68D:\Projects\Phone-landing\node_modules\@parcel\source-map\index.d.ts133872282377798597 0
@@ -5199,7 +5210,7 @@
 73D:\Projects\Phone-landing\node_modules\@parcel\core\test\fixtures\plugins133872282368055081 1
 94D:\Projects\Phone-landing\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none133872282368055081 1
 106D:\Projects\Phone-landing\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133872282368055081 0
-52D:\Projects\Phone-landing\dist\index.de158e3a.js.map133872340717647268 0
+52D:\Projects\Phone-landing\dist\index.de158e3a.js.map133883371834595589 0
 107D:\Projects\Phone-landing\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json133872282368055081 0
 86D:\Projects\Phone-landing\node_modules\@parcel\core\test\fixtures\plugins\node_modules133872282368055081 1
 117D:\Projects\Phone-landing\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133872282368055081 1
@@ -5338,6 +5349,7 @@
 68D:\Projects\Phone-landing\node_modules\@parcel\cache\lib\IDBCache.js133872282367330786 0
 65D:\Projects\Phone-landing\node_modules\@parcel\cache\lib\index.js133872282367330786 0
 69D:\Projects\Phone-landing\node_modules\@parcel\cache\lib\LMDBCache.js133872282367330786 0
+49D:\Projects\Phone-landing\dist\index.570a3342.css133883405626580865 0
 67D:\Projects\Phone-landing\node_modules\@parcel\cache\lib\types.d.ts133872282367330786 0
 66D:\Projects\Phone-landing\node_modules\@parcel\bundler-default\lib133872282367293265 1
 92D:\Projects\Phone-landing\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133872282367273222 0
@@ -5391,43 +5403,60 @@
 50D:\Projects\Phone-landing\node_modules\.bin\semver133872282367012095 0
 48D:\Projects\Phone-landing\node_modules\.bin\svgo133872299090083731 0
 66D:\Projects\Phone-landing\node_modules\.bin\update-browserslist-db133872282367042527 0
-53D:\Projects\Phone-landing\docs\header-bi.c7e4cc7a.png133872320334569456 0
-56D:\Projects\Phone-landing\docs\headphones-1.2e2e672d.png133872320334558935 0
-56D:\Projects\Phone-landing\docs\headphones-2.d93713d0.png133872320326113121 0
-66D:\Projects\Phone-landing\docs\Icon-Burger-menu-hover.7b98ba1b.svg133872320325942173 0
-48D:\Projects\Phone-landing\docs\index.0276ef3b.js133872320334680993 0
-52D:\Projects\Phone-landing\docs\index.0276ef3b.js.map133872320334709038 0
+58D:\Projects\Phone-landing\docs\about-us-photo.932f6818.png133872415742271004 0
+53D:\Projects\Phone-landing\docs\header-bi.0192391e.png133872415742452476 0
+53D:\Projects\Phone-landing\docs\header-bi.c7e4cc7a.png133872415743101926 0
+56D:\Projects\Phone-landing\docs\headphones-1.25eba748.png133872415743342587 0
+56D:\Projects\Phone-landing\docs\headphones-1.2e2e672d.png133872415743651890 0
+56D:\Projects\Phone-landing\docs\headphones-2.d93713d0.png133872415744281888 0
+66D:\Projects\Phone-landing\docs\Icon-Burger-menu-hover.7b98ba1b.svg133872415745078094 0
+66D:\Projects\Phone-landing\docs\Icon-Burger-menu-hover.f3fd9864.svg133872415745124179 0
+60D:\Projects\Phone-landing\docs\Icon-Burger-menu.3f792dc9.svg133872415744798693 0
+48D:\Projects\Phone-landing\docs\index.0276ef3b.js133872415746341724 0
+52D:\Projects\Phone-landing\docs\index.0276ef3b.js.map133872415746673766 0
+49D:\Projects\Phone-landing\docs\index.0a86d85b.css133872415746754879 0
+53D:\Projects\Phone-landing\docs\index.0a86d85b.css.map133872415746984313 0
 49D:\Projects\Phone-landing\docs\index.0e8f0f3b.css133872320334680993 0
 53D:\Projects\Phone-landing\docs\index.0e8f0f3b.css.map133872320334714697 0
-41D:\Projects\Phone-landing\docs\index.html133872320334680993 0
-49D:\Projects\Phone-landing\docs\phone.9dccf3d0.png133872320326113121 0
-64D:\Projects\Phone-landing\docs\products-headphones2.4eb4c3b3.png133872320334564159 0
-64D:\Projects\Phone-landing\docs\products-headphones3.3fc507a0.png133872320326113121 0
-58D:\Projects\Phone-landing\docs\products-phone.c1323472.png133872320334564159 0
-61D:\Projects\Phone-landing\docs\produscts-charger.1f4fbbdd.png133872320326113121 0
-58D:\Projects\Phone-landing\dist\about-us-photo.932f6818.png133872340717726759 0
-53D:\Projects\Phone-landing\dist\header-bi.0192391e.png133872340717805521 0
+53D:\Projects\Phone-landing\docs\index.35dbef5e.css.map133872415747461768 0
+64D:\Projects\Phone-landing\docs\products-headphones3.3fc507a0.png133872415754635784 0
+52D:\Projects\Phone-landing\docs\index.de158e3a.js.map133872415748098659 0
+41D:\Projects\Phone-landing\docs\index.html133872415748665088 0
+48D:\Projects\Phone-landing\docs\Logo.b4275d0d.svg133872415750325715 0
+56D:\Projects\Phone-landing\docs\Phone-landing.59712999.js133872415751759511 0
+60D:\Projects\Phone-landing\docs\Phone-landing.59712999.js.map133872415752551775 0
+49D:\Projects\Phone-landing\docs\phone.9dccf3d0.png133872415751282958 0
+49D:\Projects\Phone-landing\docs\phone.edb46170.png133872415751627434 0
+58D:\Projects\Phone-landing\docs\products-birds.ed0e58c3.png133872415752914105 0
+64D:\Projects\Phone-landing\docs\products-headphones2.4eb4c3b3.png133872415754059647 0
+64D:\Projects\Phone-landing\docs\products-headphones3.3f5a31e3.png133872415754303447 0
+58D:\Projects\Phone-landing\docs\products-phone.c1323472.png133872415755091749 0
+58D:\Projects\Phone-landing\docs\products-phone.cfa2342e.png133872415755308066 0
+61D:\Projects\Phone-landing\docs\produscts-charger.1f4fbbdd.png133872415755665957 0
+58D:\Projects\Phone-landing\dist\about-us-photo.932f6818.png133883371833771290 0
+53D:\Projects\Phone-landing\dist\header-bi.0192391e.png133883371833893633 0
 56D:\Projects\Phone-landing\dist\headphones-1.2e2e672d.png133872413986363001 0
 56D:\Projects\Phone-landing\dist\headphones-2.d93713d0.png133872413986363001 0
 60D:\Projects\Phone-landing\dist\Icon-Burger-menu.1293e60e.svg133872413986459970 0
 54D:\Projects\Phone-landing\dist\Icon-Close.c0f6b14c.svg133872413986459970 0
 60D:\Projects\Phone-landing\dist\Icone-Phone-call.5afe586e.svg133872413986459970 0
-60D:\Projects\Phone-landing\dist\Icone-Phone-call.ce586788.svg133872340717260701 0
+60D:\Projects\Phone-landing\dist\Icone-Phone-call.ce586788.svg133883371835515002 0
 48D:\Projects\Phone-landing\dist\index.0276ef3b.js133872413988493032 0
 52D:\Projects\Phone-landing\dist\index.0276ef3b.js.map133872413988728739 0
 49D:\Projects\Phone-landing\dist\index.0a86d85b.css133872413988493032 0
 49D:\Projects\Phone-landing\dist\index.35dbef5e.css133872415461189796 0
 53D:\Projects\Phone-landing\dist\index.35dbef5e.css.map133872415461330331 0
-49D:\Projects\Phone-landing\dist\index.38ec9247.css133872407615668064 0
-53D:\Projects\Phone-landing\dist\index.38ec9247.css.map133872407615731310 0
-48D:\Projects\Phone-landing\dist\index.de158e3a.js133872340717260701 0
-41D:\Projects\Phone-landing\dist\index.html133872415461189796 0
+49D:\Projects\Phone-landing\dist\index.38ec9247.css133883396531079466 0
+53D:\Projects\Phone-landing\dist\index.38ec9247.css.map133883396531079466 0
+53D:\Projects\Phone-landing\dist\index.570a3342.css.map133883405626705161 0
+48D:\Projects\Phone-landing\dist\index.de158e3a.js133883371834595589 0
+41D:\Projects\Phone-landing\dist\index.html133883405626580865 0
 48D:\Projects\Phone-landing\dist\Logo.06129810.svg133872413986363001 0
-56D:\Projects\Phone-landing\dist\Phone-landing.59712999.js133872340717260701 0
-58D:\Projects\Phone-landing\dist\products-birds.ed0e58c3.png133872340717344787 0
+56D:\Projects\Phone-landing\dist\Phone-landing.59712999.js133883371834595589 0
+58D:\Projects\Phone-landing\dist\products-birds.ed0e58c3.png133883371833863629 0
 58D:\Projects\Phone-landing\dist\products-birds.f142c3b3.png133872413986459970 0
 64D:\Projects\Phone-landing\dist\products-headphones2.4eb4c3b3.png133872413986459970 0
-64D:\Projects\Phone-landing\dist\products-headphones3.3f5a31e3.png133872340717344787 0
-61D:\Projects\Phone-landing\dist\produscts-charger.757fbb17.png133872340717260701 0
-63D:\Projects\Phone-landing\dist\produsts-headpjones.690cb2a9.png133872340717344787 0
+64D:\Projects\Phone-landing\dist\products-headphones3.3f5a31e3.png133883371833675185 0
+61D:\Projects\Phone-landing\dist\produscts-charger.757fbb17.png133883371833675185 0
+63D:\Projects\Phone-landing\dist\produsts-headpjones.690cb2a9.png133883371833675185 0
 63D:\Projects\Phone-landing\dist\produsts-headpjones.72379022.png133872413986459970 0
